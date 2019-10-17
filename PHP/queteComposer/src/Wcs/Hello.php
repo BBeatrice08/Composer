@@ -11,7 +11,4 @@ class Hello{
 
     }
 
-/*    static function talk(){
-        return '<input type= "text">';
-    }*/
 }
